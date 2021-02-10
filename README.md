@@ -19,7 +19,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 ## How To Deploy 
 * With Heroku:
 <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/ManusiaRakitan/mytelegramorg"><img src="https://telegra.ph/file/34fa325c222a70badb02f.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/IrhamFadzillah/mytelegramorg"><img src="https://ibb.co/8gpmg50" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 
@@ -27,7 +27,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - clone the repository, locally.
 ```sh
-git clone https://github.com/ManusiaRakitan/mytelegramorg.git
+git clone https://github.com/IrhamFadzillah/mytelegramorg.git
 ```
 
 - change the directory.

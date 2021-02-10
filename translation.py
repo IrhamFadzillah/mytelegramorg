@@ -1,14 +1,13 @@
 class Translation(object):
-    START_TEXT = """Hi Telaso!
+    START_TEXT = """Hi !
 Mau nyari API ID sama HASH kah? 😬
-Masukin nomer Telegram lu disini, jangan nomer togel tolol
+Masukan nomer telpon anda dengan menggunakan +62
 
 /start at any stage to re-enter your details"""
-    AFTER_RECVD_CODE_TEXT = """Oke Kampang!
+    AFTER_RECVD_CODE_TEXT = """Done
 Kirim kesini kode yang telah dikirim oleh pihak telegramnya!
 
 kode ini hanya digunakan untuk tujuan mendapatkan ID APP dari my.telegram.org
-Jika elu gak percaya sama bot ini, ke my.telegram.org ae sono
 
 
 /start at any stage to re-enter your details"""

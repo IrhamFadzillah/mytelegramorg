@@ -16,7 +16,7 @@ class Config(object):
     APP_URL = os.environ.get("APP_URL", "https://telegram.dog/HackfreaksScrapperRobot")
     APP_DESCRIPTION = os.environ.get("APP_DESCRIPTION", "created using https://telegram.dog/HackfreaksScrapperRobot")
     #
-    FOOTER_TEXT = os.environ.get("FTEXT", "🐨 @mixiologist")
+    FOOTER_TEXT = os.environ.get("FTEXT", "@StayWithMe69")
     # the strings used in the different messages
     # in the bot
     START_TEXT = os.environ.get("START_TEXT", Translation.START_TEXT)
